@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Verified API endpoint response schema
 - Added inline documentation for core functions
+
+## 2026-05-06
+- Updated .gitignore to exclude build artifacts
