@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Reviewed security headers configuration
 - Consolidated duplicate helper functions
+
+## 2026-05-13
+- Reorganised test fixtures
