@@ -24,3 +24,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Added .editorconfig for consistent formatting
+
+## 2026-05-13
+- Investigated performance bottleneck, noted findings
+- Documented config options
+- Wrote notes on upcoming feature design
